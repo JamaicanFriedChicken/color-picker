@@ -7,7 +7,8 @@
     "test": "vue-cli-service test:unit",
     "start": "vue-cli-service serve --port 8000",
     "prestart": "npm install",
-    "pretest": "npm install"
+    "pretest": "npm install",
+    "build": "vue-cli-service build"
   },
   "dependencies": {
     "core-js": "^3.6.5",
